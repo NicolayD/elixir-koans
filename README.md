@@ -1,5 +1,7 @@
 # Elixir Koans
 
+Cloned from https://github.com/elixirkoans/elixir-koans
+
 [![Build Status](https://travis-ci.org/elixirkoans/elixir-koans.svg?branch=master)](https://travis-ci.org/elixirkoans/elixir-koans)
 
 Elixir koans is a fun way to get started with the elixir programming language. It is a tour
@@ -40,7 +42,7 @@ $ mix meditate --no-clear-screen
 
 If you want to jump to a specific lesson, run it with `--koan=<koan name>`
 ```sh
-$ mix meditate --koan=PatternMatching 
+$ mix meditate --koan=PatternMatching
 ```
 
 Any typos on the koan name will show the complete list of koans, where you can pick any.
